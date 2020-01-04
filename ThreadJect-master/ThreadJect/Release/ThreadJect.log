@@ -1,0 +1,48 @@
+﻿  main.cpp
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,8): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,8): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,44): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,50): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,50): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,80): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,80): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,86): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,86): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,92): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,92): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,98): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,98): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,104): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,104): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,110): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,110): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,116): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,116): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,122): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,122): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,128): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,128): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,134): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,134): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,146): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,146): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,152): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,152): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,170): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,170): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,176): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,176): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,182): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,182): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,188): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,188): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,194): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(178,194): warning C4309: 'initializing': truncation of constant value
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(339,9): warning C4477: 'printf' : format string '%#x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PVOID'
+C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\ThreadJect\main.cpp(382,9): warning C4477: 'printf' : format string '%#x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PVOID'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ThreadJect.vcxproj -> C:\Users\Beachpoison\Downloads\ThreadJect-master\ThreadJect-master\Release\ThreadJect.exe
