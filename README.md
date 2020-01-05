@@ -5,4 +5,5 @@
 ![Screenshot](https://i.imgur.com/L4mRDNT.png)
 
 <br>
-[![Download](https://i.imgur.com/hTsEdT6.png)](https://github.com/koutsie/Bruhinjector/releases) 
+
+[<img src="https://i.imgur.com/hTsEdT6.png">](https://github.com/koutsie/Bruhinjector/releases)
