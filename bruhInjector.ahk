@@ -1,15 +1,17 @@
 ; BruhInjector by Koutsie, 2019
 ; Uses ThreadJect by D4stiny
 
+
 #SingleInstance, Force
 #KeyHistory, 0
 #NoTrayIcon
 IfNotExist, %A_ProgramFiles%\BruhInjector\
    FileCreateDir, %A_ProgramFiles%\BruhInjector\
 
+FileInstall, C:\Users\Beachpoison\Downloads\BruhInjector\LICENCES, %A_ProgramFiles%\BruhInjector\LICENCES, 1
 FileInstall, C:\Users\Beachpoison\Downloads\BruhInjector\ThreadJect.exe, %A_ProgramFiles%\BruhInjector\ThreadJect.exe, 1
 FileInstall, C:\Users\Beachpoison\Downloads\BruhInjector\ControlColor.ahk, %A_ProgramFiles%\BruhInjector\ControlColor.ahk, 1
-FileInstall, C:\Users\Beachpoison\Downloads\BruhInjector\BruhInjector.exe, %A_ProgramFiles%\BruhInjector\BruhInjector.exe, 1
+
 SendMode Input
 #Include, C:\Users\Beachpoison\Downloads\BruhInjector\ControlColor.ahk
 
@@ -33,7 +35,7 @@ Gui Font
 Gui Font, s7, Lucida Console
 Gui Add, ListView, x8 y48 w225 h233 +AltSubmit -Hdr +Grid -Multi  +LV0x4000 +LV0x9000 +LV0x100 +Sort +Background0x000000 +C0xFF8040 +NoSortHdr +LV0x840 gProcessList, Process | PID
 Gui Font
-Gui Show, w241 h340, BruhInjector by Koutsie
+Gui Show, w241 h340, BruhInjector
 
 Gui,1:-border
 
